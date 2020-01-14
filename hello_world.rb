@@ -1,1 +1,3 @@
-`puts "hello world"`
+`ruby
+`puts "hello world"
+``
